@@ -1,0 +1,22 @@
+NOTE :
+
+web ini masih menggunakan server local (xampp)
+untuk pengelolaan database MySQL menggunakan phpMyAdmin
+dapat diakses melalui link http://127.0.0.1/phpmyadmin
+
+file database untuk web ini telah tersedia dengan nama "datandlirics.sql" untuk diimport
+pada file mysql.php $host disesuaikan dengan host phpMyAdmin
+
+web belum bisa upload file, jadi untuk mesin pencarian belum dapat menampilkan data yang disediakan.
+data yang kemarin telah tersedia belum dapat ditampilkan pada menu list karena file belum dimasukkan ke dalam data base.
+web ini kebanyakan memakai bahasa php tapi tetap menggunakan html, oleh karena itu diperlukan waktu sedikit lebih lama untuk menyelesaikan web ini.
+
+
+data admin web
+username : admin
+password : admin
+
+
+REFERENSI 
+https://www.malasngoding.com/membuat-login-dengan-php-dan-mysqli-part-2/
+https://www.warungbelajar.com/membuat-fitur-upload-file-dengan-php-mysql.html
